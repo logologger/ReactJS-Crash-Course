@@ -13,6 +13,8 @@
 <p>React abstracts away the DOM and creates it own version which is simplified and only includ 
 the things you need</p>
 
+<h4>Sample Component in ReactJS</h4>
+
 ```javascript
 	class HelloMessage extends React.Component {
 	render(){
