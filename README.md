@@ -1,9 +1,9 @@
 <h1>React JS</h1>
 <h3>Advantages of React</h3>
-Markup : 
+
 	* Simple Declarative Views for each state in your application
 	* Encapsulated components
-	<ol>Dynamic Properties and state</ol>
+	* Dynamic Properties and state
 	<ol>Virtual Dom</ol>
 	<ol>completely independent of the rest of your application</ol>
 	<ol>Can render on client or server</ol>
