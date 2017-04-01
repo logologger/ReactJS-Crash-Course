@@ -18,8 +18,8 @@ class Projects extends Component {
         }
 
 
-        return ( <div className="Projects" >
-          {projectItem} < /div>
+        return ( <div className="Projects">
+          {projectItem} </div>
         );
     }
 }
