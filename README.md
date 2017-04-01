@@ -4,9 +4,9 @@
 	* Simple Declarative Views for each state in your application
 	* Encapsulated components
 	* Dynamic Properties and state
-	<ol>Virtual Dom</ol>
-	<ol>completely independent of the rest of your application</ol>
-	<ol>Can render on client or server</ol>
+	* Virtual Dom
+	* completely independent of the rest of your application
+	* Can render on client or server
 </li>
 
 <h3>Virtual DOM</h3>
